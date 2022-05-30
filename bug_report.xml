@@ -1,1 +1,18 @@
-
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+  <summary>AndroidTestGrid</summary>
+  <Project>Group30</Project>
+  <Version>30.1.0</Version>
+  <Severity>Blocker</Severity>
+  <Priority>High</Priority>
+  <Status>New</Status>
+  <Author>Parangon22</Author>
+  <Bug>
+    <Description>application doesn't starts, error 501</Description>
+    <Version>Poco x3 pro, android 11 RKQ1.200826.002</Version>
+    <STR>double click AndroidTestGrid.apk</STR>
+    <ER>application starts</ER>
+    <AR>error 501</AR>
+  </Bug>
+  <Assigned_to>John Smith</Assigned_to>
+</root>
